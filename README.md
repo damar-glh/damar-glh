@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">Hello there! My name is Damar Galih. 👋🤓</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<p align="center">My name is Damar Galih, a junior programming enthusiast in the world of technology. Every day I develop program code, find solutions for bugs, attend seminars and workshops, and discuss with the team to complete the project. I also play games to relieve stress and improve my strategy and creativity skills, which helps me in making better programs.</p>
 
 
 - 🔭 I'm studying at **Amikom Yogyakarta;**
