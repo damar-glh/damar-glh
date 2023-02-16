@@ -10,7 +10,7 @@
 <h1 align="center">Hello there! My name is Damar Galih. 👋🤓</h1>
 <p align="center">I am a junior programming enthusiast in the world of technology. Every day I develop program code, find solutions for bugs, attend seminars and workshops, and discuss with the team to complete the project. I also play games to relieve stress and improve my strategy and creativity skills, which helps me in making better programs.</p>
 
-<img align="center" alt="coding" width="500" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/dc2f20102886203.5f40a96b30bac.gif">
+<img data-ut="lightbox-image" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/dc2f20102886203.5f40a96b30bac.gif" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/dc2f20102886203.5f40a96b30bac.gif 600w,https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/dc2f20102886203.5f40a96b30bac.gif 1200w,https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/dc2f20102886203.5f40a96b30bac.gif 1400w,https://mir-s3-cdn-cf.behance.net/project_modules/fs/dc2f20102886203.5f40a96b30bac.gif 1920w," sizes="(max-width: 1920px) 100vw, 1920px">
 
 - 🔭 I'm studying at **Amikom Yogyakarta;**
 
