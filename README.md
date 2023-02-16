@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **senior programmer;**
 
-- 👨‍💻 All of my projects are available at [https://github.com/damar-glh;](https://github.com/damar-glh;)
+- 👨‍💻 All of my projects are available at [https://github.com/damar-glh;](https://github.com/damar-glh)
 
 - 📝 I regularly write articles on [http://sampahadalahuang.blogspot.com/;](http://sampahadalahuang.blogspot.com/;)
 
