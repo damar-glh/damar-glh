@@ -12,6 +12,7 @@
 
 <p align="center"><a><img align="middle" src="https://user-images.githubusercontent.com/114411272/219314760-c6885513-fe85-427b-84e6-f9d72d5a8189.gif"></a></p>
 
+<h3 align="left">Talking about Personal Stuffs:</h3>
 - 🔭 I'm studying at **Amikom Yogyakarta;**
 
 - 🌱 I’m currently learning **Another Programming Language;**
