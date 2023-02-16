@@ -7,7 +7,7 @@
 <a href="https://www.instagram.com/invites/contact/?i=1qn7f0ctoxn2r&utm_content=4rioy6h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="damar.glh___" height="30" width="40" /></a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Damar Galih</h1>
+<h1 align="center">Hello there! My name is Damar Galih. 👋🤓</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 
