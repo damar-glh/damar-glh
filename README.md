@@ -10,7 +10,8 @@
 <h1 align="center">Hello there! My name is Damar Galih. 👋🤓</h1>
 <p align="center">I am a junior programming enthusiast in the world of technology. Every day I develop program code, find solutions for bugs, attend seminars and workshops, and discuss with the team to complete the project. I also play games to relieve stress and improve my strategy and creativity skills, which helps me in making better programs.</p>
 
-![Streamer Pixel Art](https://user-images.githubusercontent.com/114411272/219314760-c6885513-fe85-427b-84e6-f9d72d5a8189.gif)
+<p align="center">![Streamer Pixel Art](https://user-images.githubusercontent.com/114411272/219314760-c6885513-fe85-427b-84e6-f9d72d5a8189.gif)
+</p>
 
 - 🔭 I'm studying at **Amikom Yogyakarta;**
 
