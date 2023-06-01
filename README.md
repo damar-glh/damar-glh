@@ -14,17 +14,9 @@
 
 <h3 align="left">Talking about Personal Stuffs:</h3>
 
-- 🔭 I'm studying at **Amikom Yogyakarta;**
-
-- 🌱 I’m currently learning **Another Programming Language;**
-
-- 🤝 I’m looking for help with **senior programmer;**
+- 🔭 I'm studying at **University Amikom Yogyakarta;**
 
 - 👨‍💻 All of my projects are available at [https://github.com/damar-glh;](https://github.com/damar-glh)
-
-- 📝 I regularly write articles on [http://sampahadalahuang.blogspot.com/;](http://sampahadalahuang.blogspot.com/;)
-
-- 💬 Ask me about **JavaScript and C++;**
 
 - 📫 How to reach me **dgdarma6@gmail.com;**
 
