@@ -10,7 +10,7 @@
 <h1 align="center">damar galih, that's my name</h1>
 <p align="center">I am a human who is interested in the world of technology, especially in the field of development and manufacture. I try to continue to broaden my knowledge and gain new experiences. However, on the other hand, my love of philosophy gives me expertise in understanding identity and the meaning of life. The combination of technological expertise and philosophical understanding is able to create a unique perspective and produce interesting works. That's me, thank you.</p>
 
-<p align="center"><a><img align="middle" src="https://github.com/damar-glh/damar-glh/assets/114411272/2acca0ea-74a6-4cca-835c-1171565d5e92.gif" border-radius="15px"></a></p>
+<p align="center" border-radius="15px"><a><img align="middle" src="https://github.com/damar-glh/damar-glh/assets/114411272/2acca0ea-74a6-4cca-835c-1171565d5e92.gif"></a></p>
 
 <h3 align="left">Talking about Personal Stuffs:</h3>
 
