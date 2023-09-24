@@ -1,5 +1,4 @@
 <p align="center" margin="10px">
-<a href="https://www.linkedin.com/in/damar-galih-7b5a1124b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damar galih" height="30" width="40" /></a>
 <a href="https://damar-glh.github.io/me" target="blank"><img align="center" src="https://github.com/damar-glh/me/blob/main/public/favicon.jpg" alt="damar galih" height="35" width="40"/></a>
 
 
