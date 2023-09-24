@@ -1,5 +1,5 @@
 <p align="center" margin="10px">
-<a href="https://damar-glh.github.io/me" target="blank"><img align="center" src="https://github.com/damar-glh/me/blob/main/public/favicon.jpg" alt="damar galih" height="35" width="40"/></a>
+<a href="https://damar-glh.github.io/me" target="blank"><img align="center" src="https://github.com/damar-glh/me/blob/main/public/favicon.jpg" alt="damar galih" height="50" width="50"/></a>
 
 
 <h1 align="center" text-decoration="none">damaraaa .</h1>
