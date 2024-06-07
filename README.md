@@ -3,6 +3,6 @@
 
 
 <h1 align="center" text-decoration="none">damaraaa .</h1>
-<p align="justify">I am a <b>human</b> who is interested in the world of technology, especially in the field of development and manufacture. I try to continue to broaden my knowledge and gain new experiences. However, on the other hand, my love of philosophy gives me expertise in understanding identity and the meaning of life. The combination of technological expertise and philosophical understanding is able to create a unique perspective and produce interesting works. <b>That's me, thank you.</b></p>
+<p align="justify">I am a <b>human</b> who is interested in the world of technology, especially in the field of development and creation, with professional experience in designing and developing websites using various front-end and back-end technologies such as HTML, CSS, JavaScript, as well as frameworks such as Bootstrap, Tailwind CSS , and React, while at the same time expanding knowledge in the field of back-end development and creating interesting work by combining technological expertise and a philosophical understanding of identity and the meaning of life. <b>That's me, thank you.</b></p>
 
 <a href="https://damar-glh.github.io/me" text-decoration="none"> --- damaraaa. ☔ </a>
