@@ -6,11 +6,9 @@
 <p align="justify">
   I am a programmer who is developing skills in the field of Technology, with a focus on mastering various programming languages ​​and software applications. Having a great interest in the latest developments in the world of programming, I am diligent in learning and always ready to face new challenges. Although still in the early stages of my career, I continue to strive to expand my horizons and abilities to become a professional and skilled programmer. I believe that with dedication and enthusiasm for learning, I can contribute significantly to the technology industry.
 </p>
-<br/>
 <p align="justify">
 In this journey, I have learned the basics of several programming languages ​​and started developing small projects to strengthen my understanding. I am also open to collaboration and further learning opportunities from more experienced professionals. With a strong determination to continue to grow, I focus on improving my skills and am ready to take on a bigger role in the world of technology. ☔
 </p>
-<br/>
 <p align="justify">If you are looking for someone with experience, you can contact me via email <b>dgdarma6@gmail.com</b></p>
 
 <a href="https://damar-glh.github.io/me" text-decoration="none"> --- damaraaa. ☔ </a>
