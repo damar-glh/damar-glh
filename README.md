@@ -3,6 +3,10 @@
 
 
 <h1 align="center" text-decoration="none">damaraaa .</h1>
-<p align="justify">I am a <b>human</b> who is interested in the world of technology, especially in the field of development and creation, with professional experience in designing and developing websites using various front-end and back-end technologies such as HTML, CSS, JavaScript, as well as frameworks such as Bootstrap, Tailwind CSS , and React, while at the same time expanding knowledge in the field of back-end development and creating interesting work by combining technological expertise and a philosophical understanding of identity and the meaning of life. <b>That's me, thank you.</b></p>
+<p align="justify">Informatics Engineering student with professional experience in the field of website development.
+Have the ability to use various technologies such as HTML, CSS, JavaScript as well as the Bootstrap
+framework, Tailwind CSS, React and so on. Currently, I am expanding my knowledge in the field of
+programming. I am committed and willing to continue learning, adapting to the latest technology and
+collaborating effectively within a development team. <b>That's me, thank you.</b></p>
 
 <a href="https://damar-glh.github.io/me" text-decoration="none"> --- damaraaa. ☔ </a>
