@@ -11,4 +11,4 @@ In this journey, I have learned the basics of several programming languages ​�
 </p>
 <p align="justify">If you are looking for someone with experience, you can contact me via email <b>dgdarma6@gmail.com</b></p>
 
-<a href="https://damar-glh.github.io/me" text-decoration="none"> --- damaraaa. ☔ </a>
+My Personal Website: <a href="https://damar-glh.github.io/me" text-decoration="none"> damaraaa. ☔ </a>
