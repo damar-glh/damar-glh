@@ -10,11 +10,10 @@ Currently, I am looking for opportunities to apply my technical skills in projec
 <p align="justify">For inquiries or collaboration, you can reach me at <b></b></p> -->
 
 <h1 align="center"><a href="https://damar-galih.tech">damar.glh__</a></h1>
-
-<p align="center"><i>Reads, writes and ships it.</i></p>
  
 ```bash
-\$ You describe a problem.
+\$ 
+You describe a problem.
 I dont answer. 
 I open the terminal. 
 So, does this need to exist?
