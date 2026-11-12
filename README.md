@@ -7,12 +7,18 @@
 <p align="justify">
 Currently, I am looking for opportunities to apply my technical skills in projects and collaborate with professional teams. I am driven by a practical interest in how technology can solve real-world problems, from web architecture to analysis.
 </p>
-<p align="justify">For inquiries or collaboration, you can reach me at <b>dgdarma6@gmail.com</b></p> -->
+<p align="justify">For inquiries or collaboration, you can reach me at <b></b></p> -->
 
 <h1 align="center"><a href="https://damar-galih.tech">damar.glh__</a></h1>
 
 <p align="center"><i>Reads, writes and ships it.</i></p>
  
 ```bash
-\$ You describe a problem. I don't answer. I open the terminal. So, does this need to exist, Only then, [ENTER]
+\$ You describe a problem.
+I dont answer. 
+I open the terminal. 
+So, does this need to exist?
+Only then, [ENTER]
+
+dgdarma6@gmail.com
 ``` 
