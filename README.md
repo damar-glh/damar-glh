@@ -13,7 +13,7 @@ Currently, I am looking for opportunities to apply my technical skills in projec
 
 <p align="center"><i>Reads, writes and ships it.</i></p>
  
-You describe a problem. He doesn't answer. He opens ...
+You describe a problem. I don't answer. I open terminal. 
   
 So, does this need to exist? only then, build.
   
