@@ -14,9 +14,5 @@ Currently, I am looking for opportunities to apply my technical skills in projec
 <p align="center"><i>Reads, writes and ships it.</i></p>
  
 ```bash
-\$ whoami
-You describe a problem. I don't answer. I open the terminal.
-So, does this need to exist? Only then, [ENTER]
+\$ You describe a problem. I don't answer. I open the terminal. So, does this need to exist, Only then, [ENTER]
 ``` 
-  
-📫 **dgdarma6@gmail.com**.
